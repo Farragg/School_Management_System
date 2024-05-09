@@ -1,0 +1,41 @@
+<?php
+
+return [
+    'Dashboard'=>'Dashboard',
+    'Dashboard_page'=>'Dashboard',
+    'Main_title' => 'School Management Program',
+    'Programname' => 'School Management Program',
+    'change_language'=>'language',
+    'Grades'=>'Grades',
+    'Grades_list'=>'Grades List',
+    'List_classes'=>'Classes List',
+    'List_sections'=>'List Sections',
+    'classes'=>'Classes',
+    'Add_Parent'=> 'Add Parent',
+    'List_Parents'=> 'List Parents',
+    'List_Teachers'=> 'List Teachers',
+    'add_student'=>'Add student',
+    'list_students'=>'List Students',
+    'information_student'=>'Information Students',
+    'Students_upgrade'=>'Students Upgrade',
+    'Graduate_students'=>'Graduate Students',
+    'Students_Promotions'=>'Students Promotions',
+    'Students_Promotions_Management'=> 'Students Promotions Management',
+    'list_Promotions'=> 'List Promotions',
+    'sections'=>'Sections',
+    'Fees'=>'School Fees',
+    'students'=>'Students',
+    'Teachers'=>'Teachers',
+    'Parents'=>'Parents',
+    'Accounts'=>'Accounts',
+    'Attendance'=>'Attendance',
+    'Quizzes'=>'Quizzes',
+    'library'=>'Library',
+    'Onlineclasses'=>'Online classes',
+    'Settings'=>'Settings',
+    'Users'=>'Users',
+
+
+    'Copyright' => 'Copyright',
+    'Name_Programer' => 'Farrag Mohamed'
+];
